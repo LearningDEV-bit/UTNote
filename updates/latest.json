@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/LearningDEV-bit/UTNote/releases/download/v1.0.2/UTNote.exe",
-  "notes": "- Primera versión con updates\n",
+  "version": "1.0.2.0",
+  "url": "https://github.com/LearningDEV-bit/UTNote/releases/download/v1.0.2/UTNoteSetup.exe",
+  "notes": "- Cambios de la 1.0.2\n",
   "mandatory": false
 }
